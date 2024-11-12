@@ -21,11 +21,7 @@
     "/dist",
     "README.md"
   ],
-  "keywords": [
-    "npm",
-    "package",
-    "template"
-  ],
+  "keywords": ["npm", "package", "template"],
   "publishConfig": {
     "access": "public"
   },
@@ -36,11 +32,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@emotion/react": "^11.13.3",
-    "@types/node": "^22.9.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "vite-plugin-dts": "^4.3.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
